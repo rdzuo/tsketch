@@ -1,5 +1,5 @@
 # Tsketches
-The offcial code and supplemental material (in TSketch_with_appendix) of Tsketches.
+The offcial code and supplemental material (TSketch_with_appendix.pdf) of Tsketches.
 
 ## Setup
 ```bash
